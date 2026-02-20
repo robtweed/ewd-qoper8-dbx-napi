@@ -1,0 +1,23 @@
+{
+  "name": "ewd-qoper8-dbx-napi",
+  "version": "1.1.1",
+  "description": "Integrates Cache, IRIS and YottaDB via the mg-dbx-napi interface, with ewd-qoper8 worker processes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "qewd-mg-dbx-napi": "",
+    "ewd-document-store": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtweed/ewd-qoper8-dbx-napi.git"
+  },
+  "author": "Rob Tweed, MGateway Ltd",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/robtweed/ewd-qoper8-dbx-napi/issues"
+  },
+  "homepage": "https://github.com/robtweed/ewd-qoper8-dbx-napi#readme"
+}
