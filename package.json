@@ -1,6 +1,6 @@
 {
   "name": "ewd-qoper8-dbx-napi",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Integrates Cache, IRIS and YottaDB via the mg-dbx-napi interface, with ewd-qoper8 worker processes",
   "main": "index.js",
   "scripts": {
